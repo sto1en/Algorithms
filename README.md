@@ -1,1 +1,1 @@
-# Vk-Algorithms
+# Algorithms
